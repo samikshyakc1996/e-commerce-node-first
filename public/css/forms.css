@@ -1,0 +1,21 @@
+.form-control{
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    /* align-items: center; */
+
+}
+.form-control label{
+
+}
+.form-control input{
+    width: 40%;
+}
+.form-control button{
+    outline: 1px solid rgb(191, 242, 22);
+    padding: 2px;
+    width: 50%;
+    margin: 2em 0;
+}
